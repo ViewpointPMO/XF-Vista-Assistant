@@ -1,0 +1,16 @@
+{
+    "salesforce": {
+        "token" : "",
+        "baseUrl" : "https://viewpoint.my.salesforce.com",
+        "nMonthsAgo" : 20
+    },
+    "faq" : {
+        "baseUrl" : "https://sites.google.com"
+    },
+    "outputDir" : "output",
+    "scrape" : {
+        "faq" : false,
+        "cases" : false,
+        "knowledge" : true
+    }
+}
